@@ -1,10 +1,6 @@
 # vue3-vite-proxy-proxy-
 vue3+vite用proxy解决跨域及proxy原理解析
 
----
-theme: channing-cyan
----
-一起养成写作习惯！这是我参与「掘金日新计划 · 4 月更文挑战」的第16天，[点击查看活动详情](https://juejin.cn/post/7080800226365145118 "https://juejin.cn/post/7080800226365145118")
 ### 前言
 前端跨域的方式是面试八股文中常见的一部分，最近面试中也是被问到跨域的问题，跨域的解决方案无非就是几个
 1. Jsonp跨域
