@@ -1,4 +1,4 @@
-# proxy解决跨域及原理解析（vue3+vite）
+# Proxy解决跨域及原理解析（vue3+vite）
 vue3+vite用proxy解决跨域及proxy原理解析
 
 ### 前言
